@@ -1,6 +1,6 @@
-import java.awt.*;
+import java.awt.Graphics;
 
-public class PointMain {
+public class PointClient {
 
     public static void main(String[] args) {
 		DrawingPanel panel = new DrawingPanel(300,300);
